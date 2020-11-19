@@ -10,3 +10,6 @@ nav{
     justify-content: center;
     align-items: center;
 }
+.nav-text{
+    font-family: 'Roboto Condensed', sans-serif;
+}
