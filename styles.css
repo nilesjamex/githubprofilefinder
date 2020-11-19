@@ -10,11 +10,24 @@ nav{
     min-height: 10vh;
     background-color: #aee6e6;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+}
+li{
+    list-style: none;
 }
 .nav-text{
     font-family: 'Anton', sans-serif;
+    pointer-events: none;
 }
 input[type=text]{
     width: 75%;
