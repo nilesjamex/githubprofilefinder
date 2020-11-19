@@ -3,12 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: #fbf6f0;
-}
 nav{
     min-height: 10vh;
-    background-color: #aee6e6;
+    background-color: #d88577;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -19,14 +16,7 @@ nav{
 input[type=text]{
     width: 75%;
     margin: 2rem;
-    height: 1.5rem;
 }
 input[type=submit]{
-    width: 10%;
-    border-radius: 40px;
-    background: transparent;
-    height: 1.3rem;
-}
-input[type=submit]:hover{
-    background-color: #aee6e6;
+    width: 20%;
 }

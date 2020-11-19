@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #fbf6f0;
+    background-color: #525252;
 }
 nav{
     min-height: 10vh;
-    background-color: #aee6e6;
+    background-color: #d88577;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,5 +28,5 @@ input[type=submit]{
     height: 1.3rem;
 }
 input[type=submit]:hover{
-    background-color: #aee6e6;
+    background-color: #d88577;
 }
